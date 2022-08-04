@@ -1,9 +1,6 @@
-# ⚡️ Hyperfy Recipes
+# ⚡️ Hyperfy + MarsX Recipes
 
-A collection of recipes demonstrating how to build different things using the Hyperfy SDK.
-
-This repo is new. We plan to add new recipes regularly and are accepting PRs from the community.
-
+Thanks Mr.ASH like the OG Pokemon 
 ## Getting Started
 
 Clone the repo
