@@ -17,11 +17,11 @@ import { Door, getInitialDoorState, getDoorActions } from './Door'
 export default function Environment() {
   return (
     <environment>
-      <spawn />
-
       <Door name="left" position={[-2, 0, -5]} />
       <Door name="right" position={[2, 0, -5]} startOpen />
 
+      {/* spawn point & ground */}
+      <spawn />
       <rigidbody>
         <box
           color="#1c1d1c"
